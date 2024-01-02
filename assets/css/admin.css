@@ -1,0 +1,11 @@
+.cf-field.cf-separator.mmwpwa-separator {
+  background-color: black;
+  color: aliceblue;
+}
+
+.cf-field.cf-separator.mmwpwa-separator h3 {
+  color: aliceblue;
+  line-height: 1;
+  margin: 4px 0;
+  cursor: pointer;
+}
